@@ -3,6 +3,8 @@ Welcome to the AWS CodeStar sample web service
 
 This sample code helps get you started with a simple Python web service using
 AWS Lambda and Amazon API Gateway. This is very easy.
+This is chaithanya
+Welcome to code start
 
 What's Here
 -----------
